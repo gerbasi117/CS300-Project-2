@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\Brand\Desktop\School Work\SNHU\CS-300\Project Two Final\Main.cpp(187,36): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Brand\Desktop\School Work\SNHU\CS-300\Project Two Final\Main.cpp(214): warning C4715: 'BST::loadData': not all control paths return a value
+  All 287 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project Two Final.vcxproj -> C:\Users\Brand\Desktop\School Work\SNHU\CS-300\Project Two Final\x64\Release\Project Two Final.exe
